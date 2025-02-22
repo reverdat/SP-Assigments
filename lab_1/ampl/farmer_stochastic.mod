@@ -1,4 +1,4 @@
-#deterministic model of farmer problem
+#Stochastic model of farmer problem
 
 
 set SCENARIOS; # Possible scenarios
